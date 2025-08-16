@@ -78,7 +78,6 @@ The base endpoint lacks search query parameters. Direct searches only work with 
 - **State**: Pinia stores with reactive patterns
 - **Routing**: Vue Router 4 with dynamic routes
 - **Build**: Vite with Vue DevTools integration
-- **Testing**: Vitest + Playwright
 
 ### **Data Flow Patterns**
 
@@ -86,3 +85,8 @@ The base endpoint lacks search query parameters. Direct searches only work with 
 2. **Reactive Filters**: Real-time UI updates via computed properties
 3. **Optimistic UI**: Immediate feedback for user actions
 4. **Progressive Loading**: Infinite scroll with loading states
+
+### **Future Plan If Possible**
+
+1. **Testing**: Create e2e and integration testing using playwright and vitest
+2. **Additional Gens**: Include additional pokemons from other generations
