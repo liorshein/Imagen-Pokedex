@@ -60,14 +60,14 @@ The base endpoint lacks search query parameters. Direct searches only work with 
 - **Counter Display**: Visual indicator of favorites count
 - **Integrated Filtering**: Filter to show only favorited Pokemon
 
-### 🎨 **Rich UI Experience**
+### **Rich UI Experience**
 
 - **Type-Based Styling**: Pokemon types displayed with accurate colors
 - **Detailed Modal**: Comprehensive Pokemon stats, abilities, and measurements
 - **Loading States**: Smooth loading animations and skeleton states
 - **Error Handling**: Graceful error recovery with retry options
 
-## 🏗️ **Architecture**
+## **Architecture**
 
 ### **Tech Stack**
 
